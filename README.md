@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- Banner – exporta el SVG desde Claude y súbelo a tu repo como banner.svg -->
+<div align="center">
+  <img src="./banner.svg" alt="Juan Jose Rave – GitHub Profile Banner" width="100%"/>
+</div>
+<br/>
+<!-- Intro -->
+<div align="center">
+  <samp>
+    <b>Hola, soy Juan Jose.</b> Construyo interfaces, sistemas y exploro seguridad.<br/>
+    Código limpio, mente curiosa, terminal siempre abierta.
+  </samp>
+</div>
+<br/>
 
-<!--
-**HiperB1/HiperB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
