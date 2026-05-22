@@ -1,6 +1,6 @@
 <!-- Banner – exporta el SVG desde Claude y súbelo a tu repo como banner.svg -->
 <div align="center">
-  <img src="./banner.svg" alt="Juan Jose Rave – GitHub Profile Banner" width="100%"/>
+  <img src="./bannerRave.svg" alt="Juan Jose Rave – GitHub Profile Banner" width="100%"/>
 </div>
 <br/>
 <!-- Intro -->
